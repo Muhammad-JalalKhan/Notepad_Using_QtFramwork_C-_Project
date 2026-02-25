@@ -130,6 +130,7 @@ User Presses Undo → Last state popped from Stack → Editor restored
 
 **Muhammad Jalal Khan**
 🎓 3rd Semester — Artificial Intelligence Student
+
 🔗 [GitHub Profile](https://github.com/Muhammad-JalalKhan)
 
 ---
