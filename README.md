@@ -15,12 +15,6 @@
 
 ---
 
-## 🖥️ Screenshots
-
-> _Add your application screenshots here_
-
----
-
 ## ✨ Features
 
 - 🏠 **Clean Launch UI** — Minimal and distraction-free editor on startup
@@ -135,7 +129,7 @@ User Presses Undo → Last state popped from Stack → Editor restored
 ## 👨‍💻 Developer
 
 **Muhammad Jalal Khan**
-🎓 3rd Semester — Computer Science Student
+🎓 3rd Semester — Artificial Intelligence Student
 🔗 [GitHub Profile](https://github.com/Muhammad-JalalKhan)
 
 ---
